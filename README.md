@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=erfnzdeh&label=Profile%20views&color=blue&style=flat)
+
 ### Work
 
 - [www.Expert.Med](https://www.Expert.Med) — an AI-assisted second-opinion radiology platform, built on a HIPAA-compliant, GDPR-approved DICOM pipeline with an event-driven Next.js + Inngest stack. (2075.ai, Oct 2025 – Apr 2026)
