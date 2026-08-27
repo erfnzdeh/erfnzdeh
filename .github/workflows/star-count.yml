@@ -1,0 +1,61 @@
+name: Update star count
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/star-count.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: star-count
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count stars across all public repos
+        id: count
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          stars=$(gh api "users/${GITHUB_REPOSITORY_OWNER}/repos?per_page=100&type=owner" \
+            --paginate --jq '.[].stargazers_count' | awk '{s+=$1} END{print s+0}')
+
+          # Never let a transient API hiccup write a bogus 0 into the README.
+          if [ -z "$stars" ] || [ "$stars" -le 0 ]; then
+            echo "Refusing to publish a star count of '$stars'" >&2
+            exit 1
+          fi
+
+          echo "stars=$stars" >> "$GITHUB_OUTPUT"
+          echo "Total stars: $stars"
+
+      - name: Rewrite badge in README
+        env:
+          STARS: ${{ steps.count.outputs.stars }}
+        run: |
+          set -euo pipefail
+          grep -q '<!--START_STARS-->' README.md || { echo "markers missing from README" >&2; exit 1; }
+          export BADGE="![Total stars](https://img.shields.io/badge/Total%20stars-${STARS}-blue?style=flat)"
+          perl -0pi -e 's{<!--START_STARS-->.*?<!--END_STARS-->}{<!--START_STARS-->$ENV{BADGE}<!--END_STARS-->}s' README.md
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- README.md; then
+            echo "Star count unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update star count badge" -- README.md
+          git push
