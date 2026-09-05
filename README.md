@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=erfnzdeh&label=Profile%20views&color=blue&style=flat) <!--START_STARS-->![Total stars](https://img.shields.io/badge/Total%20stars-962-blue?style=flat)<!--END_STARS-->
+![Profile views](https://komarev.com/ghpvc/?username=erfnzdeh&label=Profile%20views&color=blue&style=flat) <!--START_STARS-->![Total stars](https://img.shields.io/badge/Total%20stars-978-blue?style=flat)<!--END_STARS-->
 
 ### Work
 
