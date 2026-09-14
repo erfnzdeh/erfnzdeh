@@ -7,7 +7,7 @@
 
 ### Side projects
 
-- [erfanzadeh.ir](https://github.com/erfnzdeh/erfanzadeh.ir) — simple file drop during Iran's internet blackout: ~1.2 million downloads, ~60 TB passed between people, then the government shut the domain down
+- [www.Erfanzadeh.ir](https://github.com/erfnzdeh/erfanzadeh.ir) — simple file drop during Iran's internet blackout: ~1.2 million downloads, ~60 TB passed between people, then the government shut the domain down
 - [Letterboxd Toolkit](https://chromewebstore.google.com/detail/letterboxd-toolkit/foidejhgcbffeikhjgjfmnbimddjmjhl) — turns your Letterboxd diary into a full stats page about your cinema taste
 - [CIDR Match — IP Range Checker](https://chromewebstore.google.com/detail/cidr-match-%E2%80%94-ip-range-che/pceglhjlcjljcbbdjphejdajiaiicgnc) — shows whether each connection's IP matches your custom CIDR ruleset, and color-codes the toolbar icon
 - [LinkedIn RTL Resolver](https://chromewebstore.google.com/detail/linkedin-rtl-resolver/iiknkjjldkkedecinnffogcmojimbbfo) — fixes Persian/Arabic right-to-left direction and typography on LinkedIn
