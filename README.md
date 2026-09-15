@@ -11,3 +11,7 @@
 - [Letterboxd Toolkit](https://chromewebstore.google.com/detail/letterboxd-toolkit/foidejhgcbffeikhjgjfmnbimddjmjhl) — turns your Letterboxd diary into a full stats page about your cinema taste
 - [CIDR Match — IP Range Checker](https://chromewebstore.google.com/detail/cidr-match-%E2%80%94-ip-range-che/pceglhjlcjljcbbdjphejdajiaiicgnc) — shows whether each connection's IP matches your custom CIDR ruleset, and color-codes the toolbar icon
 - [LinkedIn RTL Resolver](https://chromewebstore.google.com/detail/linkedin-rtl-resolver/iiknkjjldkkedecinnffogcmojimbbfo) — fixes Persian/Arabic right-to-left direction and typography on LinkedIn
+
+### Contact me
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20me-2CA5E0?style=flat-square&logo=telegram)](https://t.me/erfnzdehBot?start=github)
