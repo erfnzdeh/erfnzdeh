@@ -34,7 +34,7 @@
 </td>
 <td width="50%">
 
-**[LinkedIn RTL Resolver](https://chromewebstore.google.com/detail/linkedin-rtl-resolver/iiknkjjldkkedecinnffogcmojimbbfo)**: Fixes Persian/Arabic right-to-left direction and typography on LinkedIn. Also published as [LinkedIn Farsi](https://chromewebstore.google.com/detail/mmchdbjmkhbbhnbblbpllcempffngood).
+**[LinkedIn RTL Resolver](https://chromewebstore.google.com/detail/linkedin-rtl-resolver/iiknkjjldkkedecinnffogcmojimbbfo)**: Fixes Persian/Arabic right-to-left direction and typography on LinkedIn.
 
 ![169 installs](https://img.shields.io/badge/installs-169-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Rating](https://img.shields.io/chrome-web-store/rating/iiknkjjldkkedecinnffogcmojimbbfo?style=flat-square&label=rating&color=F4B400)
 
