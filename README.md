@@ -34,6 +34,18 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**[@mkdwBot](https://t.me/mkdwBot)**: Paste Markdown or a long ChatGPT answer and get it back as a native Telegram rich message, with headings, tables, code and math.
+
+</td>
+<td width="50%">
+
+**[@ghWATCHRbot](https://t.me/ghWATCHRbot)**: Telegram alerts when someone stars, forks, follows or unfollows you on GitHub. Runs on a single Cloudflare Worker.
+
+</td>
+</tr>
 </table>
 
 ### Contact me
