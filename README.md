@@ -11,9 +11,9 @@
 <tr>
 <td width="50%">
 
-**[www.erfanzadeh.ir](https://www.erfanzadeh.ir)**: Simple file drop during Iran's internet blackout, until the government shut the domain down.
+**[www.erfanzadeh.ir](https://www.erfanzadeh.ir)**: Simple file drop during Iran's internet blackout: ~60 TB passed between people, then the government shut the domain down.
 
-![1.2M downloads](https://img.shields.io/badge/downloads-1.2M-2EA44F?style=flat-square) ![60 TB shared](https://img.shields.io/badge/shared-60%20TB-8250DF?style=flat-square) ![Shut down by the government](https://img.shields.io/badge/status-shut%20down%20by%20the%20government-CF222E?style=flat-square)
+![1.2M downloads](https://img.shields.io/badge/downloads-1.2M-2EA44F?style=flat-square)
 
 </td>
 <td width="50%">
