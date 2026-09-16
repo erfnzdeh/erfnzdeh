@@ -14,13 +14,11 @@
 <td width="50%">
 
 **[www.erfanzadeh.ir](https://www.erfanzadeh.ir)**: Simple file drop during Iran's internet blackout: ~1.2 million downloads, ~60 TB passed between people, then the government shut the domain down.
-`Go` `Self-hosted`
 
 </td>
 <td width="50%">
 
 **[Letterboxd Toolkit](https://chromewebstore.google.com/detail/letterboxd-toolkit/foidejhgcbffeikhjgjfmnbimddjmjhl)**: Turns your Letterboxd diary into a full stats page about your cinema taste.
-`Chrome Extension`
 
 </td>
 </tr>
@@ -28,13 +26,11 @@
 <td width="50%">
 
 **[CIDR Match: IP Range Checker](https://chromewebstore.google.com/detail/cidr-match-%E2%80%94-ip-range-che/pceglhjlcjljcbbdjphejdajiaiicgnc)**: Shows whether each connection's IP matches your custom CIDR ruleset, and color-codes the toolbar icon.
-`Chrome Extension` `Networking`
 
 </td>
 <td width="50%">
 
 **[LinkedIn RTL Resolver](https://chromewebstore.google.com/detail/linkedin-rtl-resolver/iiknkjjldkkedecinnffogcmojimbbfo)**: Fixes Persian/Arabic right-to-left direction and typography on LinkedIn.
-`Chrome Extension` `RTL`
 
 </td>
 </tr>
