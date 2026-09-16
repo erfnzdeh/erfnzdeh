@@ -5,9 +5,7 @@
 - [www.Expert.Med](https://www.Expert.Med): an AI-assisted second-opinion radiology platform, built on a HIPAA-compliant, GDPR-approved DICOM pipeline with an event-driven Next.js + Inngest stack. (2075.ai, Oct 2025 – Apr 2026)
 - [www.DasteAval.news](https://www.DasteAval.news): an LLM-powered Persian news platform that sweeps hundreds of reputable outlets and publishes thousands of stories a day with no human editor, using distributed ingestion, embedding-based deduplication, and LLM-as-a-judge guardrails for hallucination and fact-checking. (Dastyar, Jun 2024 – Jul 2025)
 
-### Shipped side projects
-
-*Live products, used by real people. The extensions' source code isn't public.*
+### Live side projects
 
 <table>
 <tr>
