@@ -18,6 +18,8 @@
 
 **[Letterboxd Toolkit](https://chromewebstore.google.com/detail/letterboxd-toolkit/foidejhgcbffeikhjgjfmnbimddjmjhl)**: Turns your Letterboxd diary into a full stats page about your cinema taste.
 
+![279 installs](https://img.shields.io/badge/installs-279-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Rating](https://img.shields.io/chrome-web-store/rating/foidejhgcbffeikhjgjfmnbimddjmjhl?style=flat-square&label=rating&color=F4B400)
+
 </td>
 </tr>
 <tr>
@@ -25,10 +27,14 @@
 
 **[CIDR Match: IP Range Checker](https://chromewebstore.google.com/detail/cidr-match-%E2%80%94-ip-range-che/pceglhjlcjljcbbdjphejdajiaiicgnc)**: Shows whether each connection's IP matches your custom CIDR ruleset, and color-codes the toolbar icon.
 
+![115 installs](https://img.shields.io/badge/installs-115-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Rating](https://img.shields.io/chrome-web-store/rating/pceglhjlcjljcbbdjphejdajiaiicgnc?style=flat-square&label=rating&color=F4B400)
+
 </td>
 <td width="50%">
 
-**[LinkedIn RTL Resolver](https://chromewebstore.google.com/detail/linkedin-rtl-resolver/iiknkjjldkkedecinnffogcmojimbbfo)**: Fixes Persian/Arabic right-to-left direction and typography on LinkedIn.
+**[LinkedIn RTL Resolver](https://chromewebstore.google.com/detail/linkedin-rtl-resolver/iiknkjjldkkedecinnffogcmojimbbfo)**: Fixes Persian/Arabic right-to-left direction and typography on LinkedIn. Also published as [LinkedIn Farsi](https://chromewebstore.google.com/detail/mmchdbjmkhbbhnbblbpllcempffngood).
+
+![169 installs](https://img.shields.io/badge/installs-169-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Rating](https://img.shields.io/chrome-web-store/rating/iiknkjjldkkedecinnffogcmojimbbfo?style=flat-square&label=rating&color=F4B400)
 
 </td>
 </tr>
