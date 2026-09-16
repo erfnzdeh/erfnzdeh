@@ -11,7 +11,7 @@
 <tr>
 <td width="50%">
 
-**[www.Erfanzadeh.ir](https://github.com/erfnzdeh/erfanzadeh.ir)**: Simple file drop during Iran's internet blackout: ~1.2 million downloads, ~60 TB passed between people, then the government shut the domain down.
+**[www.erfanzadeh.ir](https://www.erfanzadeh.ir)**: Simple file drop during Iran's internet blackout: ~1.2 million downloads, ~60 TB passed between people, then the government shut the domain down.
 `Go` `Self-hosted`
 
 </td>
