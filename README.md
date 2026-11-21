@@ -1,10 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=erfnzdeh&label=Profile%20views&color=blue&style=flat) <!--START_STARS-->![Total stars](https://img.shields.io/badge/Total%20stars-2669-blue?style=flat)<!--END_STARS-->
 
-### Work
-
-- [www.Expert.Med](https://www.Expert.Med): an AI-assisted second-opinion radiology platform, built on a HIPAA-compliant, GDPR-approved DICOM pipeline with an event-driven Next.js + Inngest stack. (2075.ai, Oct 2025 – Apr 2026)
-- [www.DasteAval.news](https://www.DasteAval.news): an LLM-powered Persian news platform that sweeps hundreds of reputable outlets and publishes thousands of stories a day with no human editor, using distributed ingestion, embedding-based deduplication, and LLM-as-a-judge guardrails for hallucination and fact-checking. (Dastyar, Jun 2024 – Jul 2025)
-
 ### Live side projects
 
 <table>
