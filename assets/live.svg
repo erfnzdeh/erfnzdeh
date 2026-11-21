@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <circle cx="8" cy="8" r="4" fill="#2EA44F" opacity="0.6">
-    <animate attributeName="r" values="4;7.5" dur="1.6s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;0" dur="1.6s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <circle cx="7" cy="7" r="4.5" fill="#E5484D">
+    <animate attributeName="r" values="4.5;7" dur="1.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;0" dur="1.4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="8" cy="8" r="4" fill="#2EA44F"/>
+  <circle cx="7" cy="7" r="4.5" fill="#E5484D"/>
 </svg>

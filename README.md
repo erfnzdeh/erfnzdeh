@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=erfnzdeh&label=Profile%20views&color=blue&style=flat) <!--START_STARS-->![Total stars](https://img.shields.io/badge/Total%20stars-2669-blue?style=flat)<!--END_STARS-->
 
-### <img src="assets/live.svg" width="16" height="16" alt="live"> Live side projects
+### <img src="assets/live.svg" width="14" height="14" alt="live"> Live side projects
 
 <table>
 <tr>
