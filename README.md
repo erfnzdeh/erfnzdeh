@@ -15,7 +15,7 @@
 
 **[Letterboxd Toolkit](https://chromewebstore.google.com/detail/letterboxd-toolkit/foidejhgcbffeikhjgjfmnbimddjmjhl)**: Turns your Letterboxd diary into a full stats page about your cinema taste.
 
-![681 installs](https://img.shields.io/badge/installs-681-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Rating](https://img.shields.io/chrome-web-store/rating/foidejhgcbffeikhjgjfmnbimddjmjhl?style=flat-square&label=rating&color=F4B400)
+![681 installs](https://img.shields.io/badge/installs-681-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </td>
 </tr>
@@ -24,14 +24,14 @@
 
 **[LinkedIn RTL Resolver](https://chromewebstore.google.com/detail/linkedin-rtl-resolver/iiknkjjldkkedecinnffogcmojimbbfo)**: Fixes Persian/Arabic right-to-left direction and typography on LinkedIn.
 
-![600 installs](https://img.shields.io/badge/installs-600-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Rating](https://img.shields.io/chrome-web-store/rating/iiknkjjldkkedecinnffogcmojimbbfo?style=flat-square&label=rating&color=F4B400)
+![600 installs](https://img.shields.io/badge/installs-600-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </td>
 <td width="50%">
 
 **[LinkedIn Farsi](https://chromewebstore.google.com/detail/linkedin-farsi/mmchdbjmkhbbhnbblbpllcempffngood)**: Shows Persian posts on LinkedIn the way they should look: right-aligned, in a proper Persian font, with Persian digits.
 
-![590 installs](https://img.shields.io/badge/installs-590-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Rating](https://img.shields.io/chrome-web-store/rating/mmchdbjmkhbbhnbblbpllcempffngood?style=flat-square&label=rating&color=F4B400)
+![590 installs](https://img.shields.io/badge/installs-590-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </td>
 </tr>
@@ -40,14 +40,14 @@
 
 **[CIDR Match: IP Range Checker](https://chromewebstore.google.com/detail/cidr-match-%E2%80%94-ip-range-che/pceglhjlcjljcbbdjphejdajiaiicgnc)**: Shows whether each connection's IP matches your custom CIDR ruleset, and color-codes the toolbar icon.
 
-![587 installs](https://img.shields.io/badge/installs-587-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Rating](https://img.shields.io/chrome-web-store/rating/pceglhjlcjljcbbdjphejdajiaiicgnc?style=flat-square&label=rating&color=F4B400)
+![587 installs](https://img.shields.io/badge/installs-587-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </td>
 <td width="50%">
 
 **[Rikord](https://chromewebstore.google.com/detail/rikord/lmigepegjclcmlohaahiejfmanhfbbim)**: Records any browser tab with one click.
 
-![19 installs](https://img.shields.io/badge/installs-19-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Rating](https://img.shields.io/chrome-web-store/rating/lmigepegjclcmlohaahiejfmanhfbbim?style=flat-square&label=rating&color=F4B400)
+![19 installs](https://img.shields.io/badge/installs-19-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </td>
 </tr>
